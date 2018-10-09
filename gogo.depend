@@ -1,0 +1,530 @@
+# depslib dependency file v1.0
+1482154463 source:e:\class\a\draw.cpp
+
+1484520951 e:\class\a\al_header.h
+	<fstream>
+	<iostream>
+	<string>
+	<vector>
+	<sstream>
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro5.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+	<fstream>
+	<iostream>
+	<string>
+	<vector>
+	<sstream>
+	<WINDOWS.H>
+	<math.h>
+	<windows.h>
+
+1474359069 e:\api\allegro\allegro-mingw-gcc5.3.0-x86-static-5.2.1.1\include\allegro5\allegro.h
+	"allegro5/base.h"
+	"allegro5/altime.h"
+	"allegro5/bitmap.h"
+	"allegro5/bitmap_draw.h"
+	"allegro5/bitmap_io.h"
+	"allegro5/bitmap_lock.h"
+	"allegro5/blender.h"
+	"allegro5/clipboard.h"
+	"allegro5/color.h"
+	"allegro5/config.h"
+	"allegro5/cpu.h"
+	"allegro5/debug.h"
+	"allegro5/display.h"
+	"allegro5/drawing.h"
+	"allegro5/error.h"
+	"allegro5/events.h"
+	"allegro5/file.h"
+	"allegro5/fixed.h"
+	"allegro5/fmaths.h"
+	"allegro5/fshook.h"
+	"allegro5/fullscreen_mode.h"
+	"allegro5/haptic.h"
+	"allegro5/joystick.h"
+	"allegro5/keyboard.h"
+	"allegro5/memory.h"
+	"allegro5/monitor.h"
+	"allegro5/mouse.h"
+	"allegro5/mouse_cursor.h"
+	"allegro5/path.h"
+	"allegro5/render_state.h"
+	"allegro5/shader.h"
+	"allegro5/system.h"
+	"allegro5/threads.h"
+	"allegro5/timer.h"
+	"allegro5/tls.h"
+	"allegro5/touch_input.h"
+	"allegro5/transformations.h"
+	"allegro5/utf8.h"
+	"allegro5/alcompat.h"
+
+1474359070 e:\api\allegro\allegro-mingw-gcc5.3.0-x86-static-5.2.1.1\include\allegro5\base.h
+	<errno.h>
+	<limits.h>
+	<limits.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<sys/types.h>
+	<fortify/fortify.h>
+	<dmalloc.h>
+	"allegro5/internal/alconfig.h"
+
+1474359070 e:\api\allegro\allegro-mingw-gcc5.3.0-x86-static-5.2.1.1\include\allegro5\internal\alconfig.h
+	"allegro5/platform/alplatf.h"
+	"allegro5/platform/alwatcom.h"
+	"allegro5/platform/almngw32.h"
+	"allegro5/platform/albcc32.h"
+	"allegro5/platform/almsvc.h"
+	"allegro5/platform/aliphonecfg.h"
+	"allegro5/platform/alosxcfg.h"
+	"allegro5/platform/alandroidcfg.h"
+	"allegro5/platform/alraspberrypicfg.h"
+	"allegro5/platform/alucfg.h"
+	"allegro5/platform/allegro_sdl_config.h"
+	"allegro5/platform/astdint.h"
+	"allegro5/platform/astdbool.h"
+
+1474359070 e:\api\allegro\allegro-mingw-gcc5.3.0-x86-static-5.2.1.1\include\allegro5\platform\alplatf.h
+
+1474359070 e:\api\allegro\allegro-mingw-gcc5.3.0-x86-static-5.2.1.1\include\allegro5\platform\alwatcom.h
+	<io.h>
+	<i86.h>
+	<conio.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1474359070 e:\api\allegro\allegro-mingw-gcc5.3.0-x86-static-5.2.1.1\include\allegro5\platform\almngw32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1474359070 e:\api\allegro\allegro-mingw-gcc5.3.0-x86-static-5.2.1.1\include\allegro5\platform\albcc32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1474359070 e:\api\allegro\allegro-mingw-gcc5.3.0-x86-static-5.2.1.1\include\allegro5\platform\almsvc.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1474359070 e:\api\allegro\allegro-mingw-gcc5.3.0-x86-static-5.2.1.1\include\allegro5\platform\aliphonecfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1474359070 e:\api\allegro\allegro-mingw-gcc5.3.0-x86-static-5.2.1.1\include\allegro5\platform\alosxcfg.h
+	"allegro5/platform/alplatf.h"
+
+1474359070 e:\api\allegro\allegro-mingw-gcc5.3.0-x86-static-5.2.1.1\include\allegro5\platform\alandroidcfg.h
+
+1474359070 e:\api\allegro\allegro-mingw-gcc5.3.0-x86-static-5.2.1.1\include\allegro5\platform\alraspberrypicfg.h
+	<fcntl.h>
+	<unistd.h>
+	<sys/types.h>
+
+1474359070 e:\api\allegro\allegro-mingw-gcc5.3.0-x86-static-5.2.1.1\include\allegro5\platform\alucfg.h
+	<fcntl.h>
+	<unistd.h>
+	"alunix.h"
+	"allegro5/platform/alplatf.h"
+
+1474359070 e:\api\allegro\allegro-mingw-gcc5.3.0-x86-static-5.2.1.1\include\allegro5\platform\alunix.h
+
+1474359070 e:\api\allegro\allegro-mingw-gcc5.3.0-x86-static-5.2.1.1\include\allegro5\platform\allegro_sdl_config.h
+	<fcntl.h>
+	<unistd.h>
+
+1474359070 e:\api\allegro\allegro-mingw-gcc5.3.0-x86-static-5.2.1.1\include\allegro5\platform\astdint.h
+	<inttypes.h>
+	<stdint.h>
+
+1474359070 e:\api\allegro\allegro-mingw-gcc5.3.0-x86-static-5.2.1.1\include\allegro5\platform\astdbool.h
+	<stdbool.h>
+
+1474359070 e:\api\allegro\allegro-mingw-gcc5.3.0-x86-static-5.2.1.1\include\allegro5\altime.h
+	"allegro5/base.h"
+
+1474359070 e:\api\allegro\allegro-mingw-gcc5.3.0-x86-static-5.2.1.1\include\allegro5\bitmap.h
+	"allegro5/color.h"
+
+1474359070 e:\api\allegro\allegro-mingw-gcc5.3.0-x86-static-5.2.1.1\include\allegro5\color.h
+	"allegro5/base.h"
+
+1474359070 e:\api\allegro\allegro-mingw-gcc5.3.0-x86-static-5.2.1.1\include\allegro5\bitmap_draw.h
+	"allegro5/bitmap.h"
+
+1474359070 e:\api\allegro\allegro-mingw-gcc5.3.0-x86-static-5.2.1.1\include\allegro5\bitmap_io.h
+	"allegro5/bitmap.h"
+	"allegro5/file.h"
+
+1474359070 e:\api\allegro\allegro-mingw-gcc5.3.0-x86-static-5.2.1.1\include\allegro5\file.h
+	"allegro5/base.h"
+	"allegro5/path.h"
+	"allegro5/utf8.h"
+
+1474359070 e:\api\allegro\allegro-mingw-gcc5.3.0-x86-static-5.2.1.1\include\allegro5\path.h
+	"allegro5/base.h"
+
+1474359070 e:\api\allegro\allegro-mingw-gcc5.3.0-x86-static-5.2.1.1\include\allegro5\utf8.h
+	"allegro5/base.h"
+
+1474359070 e:\api\allegro\allegro-mingw-gcc5.3.0-x86-static-5.2.1.1\include\allegro5\bitmap_lock.h
+	"allegro5/bitmap.h"
+
+1474359070 e:\api\allegro\allegro-mingw-gcc5.3.0-x86-static-5.2.1.1\include\allegro5\blender.h
+	"allegro5/base.h"
+	"allegro5/color.h"
+
+1474359070 e:\api\allegro\allegro-mingw-gcc5.3.0-x86-static-5.2.1.1\include\allegro5\clipboard.h
+	"allegro5/base.h"
+	"allegro5/display.h"
+	"allegro5/utf8.h"
+
+1474359070 e:\api\allegro\allegro-mingw-gcc5.3.0-x86-static-5.2.1.1\include\allegro5\display.h
+	"allegro5/bitmap.h"
+	"allegro5/color.h"
+	"allegro5/events.h"
+
+1474359070 e:\api\allegro\allegro-mingw-gcc5.3.0-x86-static-5.2.1.1\include\allegro5\events.h
+	"allegro5/altime.h"
+
+1474359070 e:\api\allegro\allegro-mingw-gcc5.3.0-x86-static-5.2.1.1\include\allegro5\config.h
+	"allegro5/file.h"
+
+1474359070 e:\api\allegro\allegro-mingw-gcc5.3.0-x86-static-5.2.1.1\include\allegro5\cpu.h
+	"allegro5/base.h"
+
+1474359070 e:\api\allegro\allegro-mingw-gcc5.3.0-x86-static-5.2.1.1\include\allegro5\debug.h
+	<assert.h>
+	"allegro5/base.h"
+
+1474359069 e:\api\allegro\allegro-mingw-gcc5.3.0-x86-static-5.2.1.1\include\allegro5\drawing.h
+	"allegro5/color.h"
+
+1474359070 e:\api\allegro\allegro-mingw-gcc5.3.0-x86-static-5.2.1.1\include\allegro5\error.h
+	"allegro5/base.h"
+
+1474359070 e:\api\allegro\allegro-mingw-gcc5.3.0-x86-static-5.2.1.1\include\allegro5\fixed.h
+	"allegro5/base.h"
+
+1474359070 e:\api\allegro\allegro-mingw-gcc5.3.0-x86-static-5.2.1.1\include\allegro5\fmaths.h
+	"allegro5/base.h"
+	"allegro5/fixed.h"
+	"allegro5/inline/fmaths.inl"
+
+1474359070 e:\api\allegro\allegro-mingw-gcc5.3.0-x86-static-5.2.1.1\include\allegro5\inline\fmaths.inl
+	"allegro5/error.h"
+
+1474359070 e:\api\allegro\allegro-mingw-gcc5.3.0-x86-static-5.2.1.1\include\allegro5\fshook.h
+	"allegro5/base.h"
+	"allegro5/file.h"
+	"allegro5/path.h"
+	<sys/types.h>
+
+1474359070 e:\api\allegro\allegro-mingw-gcc5.3.0-x86-static-5.2.1.1\include\allegro5\fullscreen_mode.h
+	"allegro5/base.h"
+
+1474359070 e:\api\allegro\allegro-mingw-gcc5.3.0-x86-static-5.2.1.1\include\allegro5\haptic.h
+	"allegro5/base.h"
+	"allegro5/display.h"
+	"allegro5/events.h"
+	"allegro5/joystick.h"
+	"allegro5/keyboard.h"
+	"allegro5/mouse.h"
+	"allegro5/touch_input.h"
+
+1474359070 e:\api\allegro\allegro-mingw-gcc5.3.0-x86-static-5.2.1.1\include\allegro5\joystick.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1474359070 e:\api\allegro\allegro-mingw-gcc5.3.0-x86-static-5.2.1.1\include\allegro5\keyboard.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+	"allegro5/keycodes.h"
+
+1474359070 e:\api\allegro\allegro-mingw-gcc5.3.0-x86-static-5.2.1.1\include\allegro5\keycodes.h
+
+1484298327 e:\api\allegro\allegro-mingw-gcc5.3.0-x86-static-5.2.1.1\include\allegro5\mouse.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1474359070 e:\api\allegro\allegro-mingw-gcc5.3.0-x86-static-5.2.1.1\include\allegro5\touch_input.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1474359070 e:\api\allegro\allegro-mingw-gcc5.3.0-x86-static-5.2.1.1\include\allegro5\memory.h
+	"allegro5/base.h"
+
+1474359070 e:\api\allegro\allegro-mingw-gcc5.3.0-x86-static-5.2.1.1\include\allegro5\monitor.h
+	"allegro5/base.h"
+
+1474359070 e:\api\allegro\allegro-mingw-gcc5.3.0-x86-static-5.2.1.1\include\allegro5\mouse_cursor.h
+	"allegro5/base.h"
+
+1474359070 e:\api\allegro\allegro-mingw-gcc5.3.0-x86-static-5.2.1.1\include\allegro5\render_state.h
+	"allegro5/base.h"
+
+1474359070 e:\api\allegro\allegro-mingw-gcc5.3.0-x86-static-5.2.1.1\include\allegro5\shader.h
+	"allegro5/base.h"
+	"allegro5/transformations.h"
+
+1474359070 e:\api\allegro\allegro-mingw-gcc5.3.0-x86-static-5.2.1.1\include\allegro5\transformations.h
+	"allegro5/display.h"
+
+1474359070 e:\api\allegro\allegro-mingw-gcc5.3.0-x86-static-5.2.1.1\include\allegro5\system.h
+	"allegro5/config.h"
+	"allegro5/path.h"
+
+1474359070 e:\api\allegro\allegro-mingw-gcc5.3.0-x86-static-5.2.1.1\include\allegro5\threads.h
+	"allegro5/altime.h"
+
+1474359070 e:\api\allegro\allegro-mingw-gcc5.3.0-x86-static-5.2.1.1\include\allegro5\timer.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1474359070 e:\api\allegro\allegro-mingw-gcc5.3.0-x86-static-5.2.1.1\include\allegro5\tls.h
+	"allegro5/base.h"
+
+1474359069 e:\api\allegro\allegro-mingw-gcc5.3.0-x86-static-5.2.1.1\include\allegro5\alcompat.h
+
+1474359069 e:\api\allegro\allegro-mingw-gcc5.3.0-x86-static-5.2.1.1\include\allegro5\allegro_image.h
+	"allegro5/base.h"
+
+1474359069 e:\api\allegro\allegro-mingw-gcc5.3.0-x86-static-5.2.1.1\include\allegro5\allegro_primitives.h
+	<allegro5/allegro.h>
+
+1474359069 e:\api\allegro\allegro-mingw-gcc5.3.0-x86-static-5.2.1.1\include\allegro5\allegro_audio.h
+	"allegro5/allegro.h"
+
+1474359069 e:\api\allegro\allegro-mingw-gcc5.3.0-x86-static-5.2.1.1\include\allegro5\allegro_acodec.h
+	"allegro5/allegro.h"
+	"allegro5/allegro_audio.h"
+
+1474359070 e:\api\allegro\allegro-mingw-gcc5.3.0-x86-static-5.2.1.1\include\allegro5\allegro_ttf.h
+	"allegro5/allegro.h"
+	"allegro5/allegro_font.h"
+
+1474359069 e:\api\allegro\allegro-mingw-gcc5.3.0-x86-static-5.2.1.1\include\allegro5\allegro_font.h
+	"allegro5/allegro.h"
+
+1482154134 source:e:\class\a\init.cpp
+	"al_header.h"
+
+1484546919 source:e:\class\a\main.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	"al_header.h"
+	"structs.h"
+	"flie_list.h"
+	"openVarible.h"
+
+1474359069 e:\api\allegro\allegro-mingw-gcc5.3.0-x86-static-5.2.1.1\include\allegro5\allegro_native_dialog.h
+	"allegro5/allegro.h"
+
+1482157934 source:e:\class\a\bomb.cpp
+
+1484520951 e:\class\a\structs.h
+
+1484532877 e:\class\a\flie_list.h
+
+1484312649 source:e:\class\a\ball_boom.cpp
+	"al_header.h"
+
+1484469554 source:e:\class\a\bal_kill.cpp
+	"al_header.h"
+
+1484532861 source:e:\class\a\collison.cpp
+	"al_header.h"
+
+1484518164 source:e:\class\a\drawmap.cpp
+	"al_header.h"
+	"openVarible.h"
+
+1483446383 source:e:\class\a\loadmap.cpp
+	"al_header.h"
+	"structs.h"
+	"openVarible.h"
+	"openVarible.h"
+
+1474359069 e:\api\allegro\allegro-mingw-gcc5.3.0-x86-static-5.2.1.1\include\allegro5\allegro5.h
+	"allegro.h"
+
+1484197079 e:\class\a\openvarible.h
+
+1482679689 source:e:\class\a\drawplayer.cpp
+	"al_header.h"
+
+1484305270 source:e:\class\a\menu.cpp
+	"al_header.h"
+	"flie_list.h"
+
+1484532861 source:e:\class\a\checkifhole.cpp
+	"al_header.h"
+
+1484456001 source:e:\class\a\manonball.cpp
+	"al_header.h"
+
+1484410397 source:e:\class\a\ifthereisaball.cpp
+	"al_header.h"
+
+1484204538 source:e:\class\a\setbombonfire.cpp
+	"al_header.h"
+
+1484709260 source:e:\class\a\gamer.cpp
+	"al_header.h"
+
+1484313395 source:e:\class\a\ifthemaninbrunch.cpp
+	"al_header.h"
+
+1484357325 source:e:\class\a\tab.cpp
+	"al_header.h"
+
+1484532861 source:e:\class\a\gamania.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	"al_header.h"
+	"structs.h"
+	"flie_list.h"
+	"openVarible.h"
+
+1484532861 source:e:\class\a\gamania1.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	"al_header.h"
+	"structs.h"
+	"flie_list.h"
+	"openVarible.h"
+
+1484469554 source:e:\before\class\a\bal_kill.cpp
+	"al_header.h"
+
+1484520951 e:\before\class\a\al_header.h
+	<fstream>
+	<iostream>
+	<string>
+	<vector>
+	<sstream>
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro5.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+	<fstream>
+	<iostream>
+	<string>
+	<vector>
+	<sstream>
+	<WINDOWS.H>
+	<math.h>
+	<windows.h>
+
+1484312649 source:e:\before\class\a\ball_boom.cpp
+	"al_header.h"
+
+1484532861 source:e:\before\class\a\checkifhole.cpp
+	"al_header.h"
+
+1484532861 source:e:\before\class\a\collison.cpp
+	"al_header.h"
+
+1484518164 source:e:\before\class\a\drawmap.cpp
+	"al_header.h"
+	"openVarible.h"
+
+1484197079 e:\before\class\a\openvarible.h
+
+1482679689 source:e:\before\class\a\drawplayer.cpp
+	"al_header.h"
+
+1484532861 source:e:\before\class\a\gamania.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	"al_header.h"
+	"structs.h"
+	"flie_list.h"
+	"openVarible.h"
+
+1484520951 e:\before\class\a\structs.h
+
+1484532877 e:\before\class\a\flie_list.h
+
+1484532861 source:e:\before\class\a\gamania1.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	"al_header.h"
+	"structs.h"
+	"flie_list.h"
+	"openVarible.h"
+
+1484709260 source:e:\before\class\a\gamer.cpp
+	"al_header.h"
+
+1484313395 source:e:\before\class\a\ifthemaninbrunch.cpp
+	"al_header.h"
+
+1484410397 source:e:\before\class\a\ifthereisaball.cpp
+	"al_header.h"
+
+1482154134 source:e:\before\class\a\init.cpp
+	"al_header.h"
+
+1483446383 source:e:\before\class\a\loadmap.cpp
+	"al_header.h"
+	"structs.h"
+	"openVarible.h"
+	"openVarible.h"
+
+1484456001 source:e:\before\class\a\manonball.cpp
+	"al_header.h"
+
+1484357325 source:e:\before\class\a\tab.cpp
+	"al_header.h"
+

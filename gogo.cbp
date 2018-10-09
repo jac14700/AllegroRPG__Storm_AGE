@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="gogo" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/gogo" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="E:/Before/CLASS/API/Allegro/allegro-mingw-gcc5.3.0-x86-static-5.2.1.1" />
+				</Compiler>
+				<Linker>
+					<Add library="liballegro_monolith.dll.a" />
+					<Add library="libvorbisfile.a" />
+					<Add library="libvorbis.a" />
+					<Add library="libphysfs.a" />
+					<Add library="libdumb.a" />
+					<Add library="libFLAC.a" />
+					<Add library="libfreetype.a" />
+					<Add library="libjpeg.a" />
+					<Add library="libogg.a" />
+					<Add library="libpng16.a" />
+					<Add library="libtheoradec.a" />
+					<Add library="libzlib.a" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/gogo" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="E:/API/Allegro/allegro-mingw-gcc5.3.0-x86-static-5.2.1.1/include" />
+		</Compiler>
+		<Linker>
+			<Add option="-static" />
+			<Add option="-static-libgcc" />
+			<Add option="-static-libstdc++" />
+			<Add library="liballegro_monolith-static.a" />
+			<Add library="libvorbisfile.a" />
+			<Add library="libvorbis.a" />
+			<Add library="libphysfs.a" />
+			<Add library="libdumb.a" />
+			<Add library="libFLAC.a" />
+			<Add library="libfreetype.a" />
+			<Add library="libjpeg.a" />
+			<Add library="libogg.a" />
+			<Add library="libpng16.a" />
+			<Add library="libtheoradec.a" />
+			<Add library="libzlib.a" />
+			<Add library="libpsapi.a" />
+			<Add library="libwinmm.a" />
+			<Add library="libshlwapi.a" />
+			<Add library="libgdi32.a" />
+			<Add library="libopengl32.a" />
+			<Add library="libole32.a" />
+			<Add library="libdsound.a" />
+			<Add library="libpthread.a" />
+			<Add library="libkernel32.a" />
+			<Add library="libuser32.a" />
+			<Add library="libwinspool.a" />
+			<Add library="libshell32.a" />
+			<Add library="liboleaut32.a" />
+			<Add library="libuuid.a" />
+			<Add library="libcomdlg32.a" />
+			<Add library="libadvapi32.a" />
+			<Add directory="E:/API/Allegro/allegro-mingw-gcc5.3.0-x86-static-5.2.1.1/lib" />
+		</Linker>
+		<Unit filename="CheckIfHole.cpp" />
+		<Unit filename="Collison.cpp" />
+		<Unit filename="DrawMap.cpp" />
+		<Unit filename="GAMANIA.cpp" />
+		<Unit filename="GAMANIA1.cpp" />
+		<Unit filename="LoadMap.cpp" />
+		<Unit filename="ManOnBall.cpp" />
+		<Unit filename="al_header.h" />
+		<Unit filename="bal_kill.cpp" />
+		<Unit filename="ball_boom.cpp" />
+		<Unit filename="drawPlayer.cpp" />
+		<Unit filename="flie_list.h" />
+		<Unit filename="gameR.cpp" />
+		<Unit filename="ifthemaninbrunch.cpp" />
+		<Unit filename="ifthereisAball.cpp" />
+		<Unit filename="init.cpp" />
+		<Unit filename="main.cpp" />
+		<Unit filename="openVarible.h" />
+		<Unit filename="structs.h" />
+		<Unit filename="tab.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
